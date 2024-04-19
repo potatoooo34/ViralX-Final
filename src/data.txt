@@ -1,0 +1,560 @@
+Name: INDIA
+Total patients: 29
+Total infected: 29
+Total recovered: 19
+Total deceased: 10
+Fatality rate: 0.3448275862068966
+
+State: Maharashtra
+Total patients: 10
+Total infected: 10
+Total recovered: 5
+Total deceased: 5
+Fatality rate: 0.5
+
+Name: Apollo Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 1
+Total deceased: 4
+Fatality rate: 0.8
+
+Name: Thunga Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Karnataka
+Total patients: 10
+Total infected: 10
+Total recovered: 7
+Total deceased: 3
+Fatality rate: 0.3
+
+Name: Fortis Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 3
+Total deceased: 2
+Fatality rate: 0.4
+
+Name: CAMA Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Gujrat
+Total patients: 9
+Total infected: 9
+Total recovered: 7
+Total deceased: 2
+Fatality rate: 0.2222222222222222
+
+Name: Wockart Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+Name: Patel Hospital
+Total patients: 4
+Total infected: 4
+Total recovered: 3
+Total deceased: 1
+Fatality rate: 0.25
+
+Name: INDIA
+Total patients: 29
+Total infected: 29
+Total recovered: 19
+Total deceased: 10
+Fatality rate: 0.3448275862068966
+
+State: Maharashtra
+Total patients: 10
+Total infected: 10
+Total recovered: 5
+Total deceased: 5
+Fatality rate: 0.5
+
+Name: Apollo Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 1
+Total deceased: 4
+Fatality rate: 0.8
+
+Name: Thunga Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Karnataka
+Total patients: 10
+Total infected: 10
+Total recovered: 7
+Total deceased: 3
+Fatality rate: 0.3
+
+Name: Fortis Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 3
+Total deceased: 2
+Fatality rate: 0.4
+
+Name: CAMA Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Gujrat
+Total patients: 9
+Total infected: 9
+Total recovered: 7
+Total deceased: 2
+Fatality rate: 0.2222222222222222
+
+Name: Wockart Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+Name: Patel Hospital
+Total patients: 4
+Total infected: 4
+Total recovered: 3
+Total deceased: 1
+Fatality rate: 0.25
+
+Name: INDIA
+Total patients: 29
+Total infected: 29
+Total recovered: 19
+Total deceased: 10
+Fatality rate: 0.3448275862068966
+
+State: Maharashtra
+Total patients: 10
+Total infected: 10
+Total recovered: 5
+Total deceased: 5
+Fatality rate: 0.5
+
+Name: Apollo Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 1
+Total deceased: 4
+Fatality rate: 0.8
+
+Name: Thunga Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Karnataka
+Total patients: 10
+Total infected: 10
+Total recovered: 7
+Total deceased: 3
+Fatality rate: 0.3
+
+Name: Fortis Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 3
+Total deceased: 2
+Fatality rate: 0.4
+
+Name: CAMA Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Gujrat
+Total patients: 9
+Total infected: 9
+Total recovered: 7
+Total deceased: 2
+Fatality rate: 0.2222222222222222
+
+Name: Wockart Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+Name: Patel Hospital
+Total patients: 4
+Total infected: 4
+Total recovered: 3
+Total deceased: 1
+Fatality rate: 0.25
+
+Name: INDIA
+Total patients: 29
+Total infected: 29
+Total recovered: 19
+Total deceased: 10
+Fatality rate: 0.3448275862068966
+
+State: Maharashtra
+Total patients: 10
+Total infected: 10
+Total recovered: 5
+Total deceased: 5
+Fatality rate: 0.5
+
+Name: Apollo Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 1
+Total deceased: 4
+Fatality rate: 0.8
+
+Name: Thunga Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Karnataka
+Total patients: 10
+Total infected: 10
+Total recovered: 7
+Total deceased: 3
+Fatality rate: 0.3
+
+Name: Fortis Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 3
+Total deceased: 2
+Fatality rate: 0.4
+
+Name: CAMA Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Gujrat
+Total patients: 9
+Total infected: 9
+Total recovered: 7
+Total deceased: 2
+Fatality rate: 0.2222222222222222
+
+Name: Wockart Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+Name: Patel Hospital
+Total patients: 4
+Total infected: 4
+Total recovered: 3
+Total deceased: 1
+Fatality rate: 0.25
+
+Name: INDIA
+Total patients: 29
+Total infected: 29
+Total recovered: 19
+Total deceased: 10
+Fatality rate: 0.3448275862068966
+
+State: Maharashtra
+Total patients: 10
+Total infected: 10
+Total recovered: 5
+Total deceased: 5
+Fatality rate: 0.5
+
+Name: Apollo Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 1
+Total deceased: 4
+Fatality rate: 0.8
+
+Name: Thunga Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Karnataka
+Total patients: 10
+Total infected: 10
+Total recovered: 7
+Total deceased: 3
+Fatality rate: 0.3
+
+Name: Fortis Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 3
+Total deceased: 2
+Fatality rate: 0.4
+
+Name: CAMA Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Gujrat
+Total patients: 9
+Total infected: 9
+Total recovered: 7
+Total deceased: 2
+Fatality rate: 0.2222222222222222
+
+Name: Wockart Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+Name: Patel Hospital
+Total patients: 4
+Total infected: 4
+Total recovered: 3
+Total deceased: 1
+Fatality rate: 0.25
+
+Name: INDIA
+Total patients: 29
+Total infected: 29
+Total recovered: 19
+Total deceased: 10
+Fatality rate: 0.3448275862068966
+
+State: Maharashtra
+Total patients: 10
+Total infected: 10
+Total recovered: 5
+Total deceased: 5
+Fatality rate: 0.5
+
+Name: Apollo Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 1
+Total deceased: 4
+Fatality rate: 0.8
+
+Name: Thunga Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Karnataka
+Total patients: 10
+Total infected: 10
+Total recovered: 7
+Total deceased: 3
+Fatality rate: 0.3
+
+Name: Fortis Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 3
+Total deceased: 2
+Fatality rate: 0.4
+
+Name: CAMA Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Gujrat
+Total patients: 9
+Total infected: 9
+Total recovered: 7
+Total deceased: 2
+Fatality rate: 0.2222222222222222
+
+Name: Wockart Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+Name: Patel Hospital
+Total patients: 4
+Total infected: 4
+Total recovered: 3
+Total deceased: 1
+Fatality rate: 0.25
+
+Name: INDIA
+Total patients: 29
+Total infected: 29
+Total recovered: 19
+Total deceased: 10
+Fatality rate: 0.3448275862068966
+
+State: Maharashtra
+Total patients: 10
+Total infected: 10
+Total recovered: 5
+Total deceased: 5
+Fatality rate: 0.5
+
+Name: Apollo Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 1
+Total deceased: 4
+Fatality rate: 0.8
+
+Name: Thunga Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Karnataka
+Total patients: 10
+Total infected: 10
+Total recovered: 7
+Total deceased: 3
+Fatality rate: 0.3
+
+Name: Fortis Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 3
+Total deceased: 2
+Fatality rate: 0.4
+
+Name: CAMA Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Gujrat
+Total patients: 9
+Total infected: 9
+Total recovered: 7
+Total deceased: 2
+Fatality rate: 0.2222222222222222
+
+Name: Wockart Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+Name: Patel Hospital
+Total patients: 4
+Total infected: 4
+Total recovered: 3
+Total deceased: 1
+Fatality rate: 0.25
+
+Name: INDIA
+Total patients: 30
+Total infected: 30
+Total recovered: 20
+Total deceased: 10
+Fatality rate: 0.3333333333333333
+
+State: Maharashtra
+Total patients: 10
+Total infected: 10
+Total recovered: 5
+Total deceased: 5
+Fatality rate: 0.5
+
+Name: Apollo Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 1
+Total deceased: 4
+Fatality rate: 0.8
+
+Name: Thunga Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Karnataka
+Total patients: 10
+Total infected: 10
+Total recovered: 7
+Total deceased: 3
+Fatality rate: 0.3
+
+Name: Fortis Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 3
+Total deceased: 2
+Fatality rate: 0.4
+
+Name: CAMA Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+State: Gujrat
+Total patients: 10
+Total infected: 10
+Total recovered: 8
+Total deceased: 2
+Fatality rate: 0.2
+
+Name: Wockart Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
+Name: Patel Hospital
+Total patients: 5
+Total infected: 5
+Total recovered: 4
+Total deceased: 1
+Fatality rate: 0.2
+
