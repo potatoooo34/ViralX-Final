@@ -21,6 +21,7 @@ public class Main {
             String[] symptom = new String[n];
             int[] severity = new int[n];
             int nc = 10;
+            int[] c_id = new int[nc];
             String[] c_name = new String[nc];
             int[] c_age = new int[nc];
             System.out.println("Enter the id of the patient: ");
@@ -32,7 +33,7 @@ public class Main {
             System.out.println("Enter number of symptoms of the patient: ");
             n = sc.nextInt();
             for (int i = 0; i < n; i++) {
-                System.out.println("Enter the symptom " + i + 1 + " of the patient: ");
+                System.out.println("Enter the symptom " + (i + 1) + " of the patient: ");
                 symptom[i] = sc.next();
                 System.out.println("Enter the severity of the symptom: ");
                 severity[i] = sc.nextInt();
@@ -42,9 +43,11 @@ public class Main {
             nc = sc.nextInt();
 
             for (int i = 0; i < nc; i++) {
-                System.out.println("Enter the name of the contact " + i + 1 + " of the patient: ");
+                System.out.println("Enter the id of the contact " + (i + 1)+ " of the patient: ");
+                c_id[i] = sc.nextInt();
+                System.out.println("Enter the name of the contact " + (i + 1) + " of the patient: ");
                 c_name[i] = sc.next();
-                System.out.println("Enter the age of the contact " + i + 1 + " of the patient: ");
+                System.out.println("Enter the age of the contact " + (i + 1)+ " of the patient: ");
                 c_age[i] = sc.nextInt();
             }
             
@@ -68,10 +71,12 @@ public class Main {
                 }
                 fw.append(";");
                 for (int i = 0; i < nc; i++) {
+                    fw.append(Integer.toString(c_id[i]));
+                    fw.append(",");
                     fw.append(c_name[i]);
                     fw.append(",");
                     fw.append(Integer.toString(c_age[i]));
-                    if (i != n - 1)
+                    if (i != nc - 1)
                         fw.append(",");
                 }
                 fw.flush();
@@ -126,8 +131,6 @@ public class Main {
             if(patients[j].getStatus().equals("Infected") && !patients[j].getAdmitStatus())
             {
                 if(hospitals[i].addSubObj(patients[j])){
-                //System.out.println("ADMIT KIYA???");
-                //hospitals[i].addPatient(patients[j]);
                 patients[j].setAdmitStatus(true);
                 j++;
                 }
