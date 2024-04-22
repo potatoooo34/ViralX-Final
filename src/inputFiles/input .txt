@@ -27,4 +27,3 @@
 27,Aanya,22,cold,21,5;28,Harper,12,1,Benjamin,45
 28,Rehan,78,fever,78,6;29,Amelia,55,7,Logan,67
 29,Zara,34,headache,90,2;30,Sofia,77,8,Alexander,34
-23,Hoho,23,cold,23;Alex,88
