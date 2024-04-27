@@ -6,7 +6,7 @@ import Location.Country;
 import Location.Hospital;
 import Location.State;
 import Subject.Contact;
-
+import Subject.Patient;
 
 public class all_data {
     private Patient[] patients;
