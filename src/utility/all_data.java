@@ -6,7 +6,7 @@ import Location.Country;
 import Location.Hospital;
 import Location.State;
 import Subject.Contact;
-import Subject.Patient;
+
 
 public class all_data {
     private Patient[] patients;
@@ -51,7 +51,7 @@ public class all_data {
             int index = 0;
             while ((line = br.readLine()) != null) {
                 String[] p1 = line.split(";");
-                // System.out.println(p1[0] + " and " + p1[1]);
+                
                 String[] parts1 = p1[0].split(",");
                 String[] parts2 = p1[1].split(",");
                 // for(int i = 0; i < parts.length; i ++)
@@ -74,9 +74,7 @@ public class all_data {
                         patient.addSymptom(new Symptom(symptomName, severity));
                     }
 
-                    // Move index to the start of contact section
-                    // System.out.println("CONTACT START INDEX: " + contactStartIndex);
-                    // Add contacts
+                    
                     for (int i = 0; i < parts2.length - 2; i += 3) {
                         int contactId = Integer.parseInt(parts2[i]);
                         String contactName = parts2[i + 1];
